@@ -30,3 +30,5 @@ This project is designed to automatically extract and summarize key information 
    git clone https://github.com/yourusername/Medical_Doc_Summarization.git
    cd Medical_Doc_Summarization
     ```
+## Live Demo
+https://huggingface.co/spaces/Kaiyeee/Medical_Document_Summarizer
